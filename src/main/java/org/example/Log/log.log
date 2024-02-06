@@ -1,0 +1,7 @@
+2024-02-07 02:34:34 ERROR Main:13 - error
+2024-02-07 02:34:34 INFO  Main:14 - info
+2024-02-07 02:34:34 DEBUG Main:15 - debug
+2024-02-07 02:34:34 TRACE Main:16 - trace
+2024-02-07 02:34:34 DEBUG Main:17 - Hello this is a debug message
+2024-02-07 02:34:34 INFO  Main:18 - Hell this is an info message
+2024-02-07 02:39:28 ERROR Main:42 - Code of Iraq is Empty or Null
